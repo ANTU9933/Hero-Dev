@@ -51,3 +51,10 @@ nav .menu a{
 
 
 }
+
+#banner{
+    border: 1px solid red;
+    margin: 46px 38px 0px 230px;
+    display: flex;
+    
+}
